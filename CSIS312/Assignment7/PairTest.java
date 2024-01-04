@@ -6,7 +6,7 @@
 // Schildt, H. (2022). Java: A beginner's guide, ninth edition (9th ed.). McGraw Hill
 public class PairTest {
     public static void main(String[] args) {
-        System.out.println("Wesley Shawn Falconbury - Assignment 7");
+        System.out.println("[Name] - Assignment 7");
 
         // Creating Pair of Integer and String
         Pair<Integer, String> p1 = new Pair<>(1, "One");
